@@ -18,6 +18,27 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnolog
 - 💻 Aprendendo desenvolvimento web, Git e boas práticas de código
 - 🌱 Sempre buscando evoluir e aprender coisas novas
 - 🔗 Confira meu portfólio: [GitHub Pages](https://Peter-Hubdev.github.io/meu-portfolio)
+# 🔧 Projetos Pessoais
+
+Esta pasta reúne experimentos, estudos e projetos desenvolvidos por conta própria, fora do ambiente acadêmico.
+
+---
+
+## 📋 Lista de Projetos
+
+| # | Projeto | Descrição | Status |
+|---|---------|-----------|--------|
+| — | Em breve | Novos projetos serão adicionados em breve | 🔄 Em desenvolvimento |
+
+---
+
+## 💡 Objetivo
+
+Nesta seção, o foco é praticar e consolidar conhecimentos adquiridos em sala de aula, além de explorar novas tecnologias por iniciativa própria.
+
+---
+
+<sub>← [Voltar ao repositório principal](../README.md)</sub>
 
 ---
 
@@ -79,6 +100,7 @@ Cada projeto desta pasta foi desenvolvido como atividade do curso, seguindo boas
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+
 
 ---
 
