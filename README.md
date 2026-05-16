@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Pedro Cardoso Barbosa!
+#  Olá, eu sou Pedro Cardoso Barbosa!
 
 <div align="center">
 
