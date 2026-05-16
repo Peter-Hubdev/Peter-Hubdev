@@ -43,6 +43,32 @@ meu-portfolio/
 | [Projetos Acadêmicos](./projetos-academicos/) | Trabalhos do curso de ADS | Variadas |
 | [Projetos Pessoais](./projetos-pessoais/) | Experimentos e práticas | Variadas |
 
+# 📚 Projetos Acadêmicos
+
+Esta pasta reúne todos os projetos e trabalhos desenvolvidos durante o curso de **Análise e Desenvolvimento de Sistemas**.
+
+---
+
+## 📋 Lista de Projetos
+
+| # | Projeto | Descrição | Status |
+|---|---------|-----------|--------|
+| 01 | [Portfólio com Versionamento](../index.html) | Criação de repositório com Git e GitHub Pages | ✅ Concluído |
+
+---
+
+## 📝 Sobre os Projetos
+
+Cada projeto desta pasta foi desenvolvido como atividade do curso, seguindo boas práticas de:
+
+- **Versionamento** com Git
+- **Documentação** com Markdown
+- **Organização** de código e arquivos
+
+---
+
+<sub>← [Voltar ao repositório principal](../README.md)</sub>
+
 ---
 
 ## 🛠️ Tecnologias que estou aprendendo
