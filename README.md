@@ -1,121 +1,112 @@
-#  Olá, eu sou Pedro Cardoso Barbosa!
+# Pedro Cardoso Barbosa
 
-<div align="center">
-
-![Banner](https://img.shields.io/badge/Curso-An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas-7c6af7?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Estudando%20ativamente-34d399?style=for-the-badge)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Ativo-c084fc?style=for-the-badge)
-
-</div>
+Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web e controle de versão distribuído. Este repositório centraliza projetos acadêmicos e pessoais, documentados e versionados com Git e hospedados no GitHub.
 
 ---
 
-## 🎓 Sobre mim
+## Contato
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento de software. Este repositório reúne meus projetos acadêmicos e pessoais, documentando minha evolução como desenvolvedor.
-
-- 📚 Cursando ADS
-- 💻 Aprendendo desenvolvimento web, Git e boas práticas de código
-- 🌱 Sempre buscando evoluir e aprender coisas novas
-- 🔗 Confira meu portfólio: [GitHub Pages](https://Peter-Hubdev.github.io/meu-portfolio)
-# 🔧 Projetos Pessoais
-
-Esta pasta reúne experimentos, estudos e projetos desenvolvidos por conta própria, fora do ambiente acadêmico.
+| | |
+|---|---|
+| E-mail | pedrocbarbosa27@gmail.com |
+| LinkedIn | https://www.linkedin.com/in/pedro-cardoso-1b82a32a5/ |
+| GitHub | https://github.com/Peter-Hubdev |
 
 ---
 
-## 📋 Lista de Projetos
+## Sobre o repositório
 
-| # | Projeto | Descrição | Status |
-|---|---------|-----------|--------|
-| — | Em breve | Novos projetos serão adicionados em breve | 🔄 Em desenvolvimento |
+Repositório criado como parte do desafio acadêmico **"Criação de Repositório com Versionamento"**, com os seguintes objetivos:
 
----
-
-## 💡 Objetivo
-
-Nesta seção, o foco é praticar e consolidar conhecimentos adquiridos em sala de aula, além de explorar novas tecnologias por iniciativa própria.
+- Aplicar boas práticas de versionamento com Git
+- Organizar projetos por categoria em uma estrutura de diretórios clara
+- Documentar cada projeto com `README.md` descritivo
+- Publicar uma página estática via GitHub Pages
+- Integrar o repositório ao perfil profissional no LinkedIn
 
 ---
 
-<sub>← [Voltar ao repositório principal](../README.md)</sub>
-
----
-
-## 🗂️ Estrutura do Repositório
+## Estrutura de diretórios
 
 ```
-meu-portfolio/
-│
-├── 📁 projetos-academicos/   → Trabalhos e projetos do curso de ADS
-├── 📁 projetos-pessoais/     → Projetos desenvolvidos por conta própria
-├── 📁 docs/                  → Documentações e anotações de estudo
-├── 📄 index.html             → Página do portfólio (GitHub Pages)
-└── 📄 README.md              → Este arquivo
+/
+├── index.html                  # Página de portfólio (GitHub Pages)
+├── README.md                   # Documentação raiz do repositório
+├── academico/                  # Projetos desenvolvidos durante o curso
+│   ├── python/                 # Scripts Python — exercícios e tarefas
+│   └── README.md
+└── pessoal/                    # Projetos próprios e experimentos
+    └── README.md
 ```
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [Portfólio Web](./index.html) | Página de portfólio publicada no GitHub Pages | HTML, CSS, JS |
-| [Projetos Acadêmicos](./projetos-academicos/) | Trabalhos do curso de ADS | Variadas |
-| [Projetos Pessoais](./projetos-pessoais/) | Experimentos e práticas | Variadas |
+### `index.html` — Portfólio estático (GitHub Pages)
 
-# 📚 Projetos Acadêmicos
+Página web desenvolvida para apresentar projetos e informações de contato, publicada via GitHub Pages com versionamento incremental (v1.0).
 
-Esta pasta reúne todos os projetos e trabalhos desenvolvidos durante o curso de **Análise e Desenvolvimento de Sistemas**.
+**Stack:** HTML5 · CSS3 · JavaScript (Vanilla)  
+**Deploy:** GitHub Pages — branch `main`
 
 ---
 
-## 📋 Lista de Projetos
+### Python — Exercícios e Tarefas Acadêmicas
 
-| # | Projeto | Descrição | Status |
-|---|---------|-----------|--------|
-| 01 | [Portfólio com Versionamento](../index.html) | Criação de repositório com Git e GitHub Pages | ✅ Concluído |
+Scripts desenvolvidos durante o curso, cobrindo fundamentos de lógica de programação em Python.
 
----
+| Arquivo | Conteúdo |
+|---|---|
+| `Valve_Systems.py` | Variáveis, atribuição e operações básicas de soma |
+| `Valve_Systems2.py` | Expressões aritméticas com `+` e `*` |
+| `Valve_Systems3.py` | Tipos de dados: `int`, `float` e `complex` |
+| `Valve_Systems4.py` | Operadores aritméticos: divisão inteira, módulo e potência |
+| `Valve_Systems5.py` | Divisão inteira e módulo com saída formatada |
+| `Valve_Systems6.py` | Combinação de operadores e reatribuição de variáveis |
+| `Valve_Systems7.py` | Entrada de dados com `input()` e operação de soma |
+| `Valve_Systems8.py` | Loop `while` com contador e condição de saída por sentinela |
+| `Valve_Systems9.py` | Loop `while` com acumulador de soma e contador |
+| `Valve_Systems10.py` | Loop `while` com leitura prévia da condição de parada |
+| `Valve_SDystems10_0.py` | Calculadora simples com menu de operações via `input()` |
+| `Valve_Systems11.py` | Estatísticas de turma: média, aprovados e reprovados |
+| `Valve_systems_12.py` | Acumulador com contagem de valores acima de limiar |
+| `Valve_Systems13.py` | Comparação de dois números com menu de operações |
+| `Valve_Systems14.py` | Ordenação de dois inteiros com uso de lista |
+| `main.py` | Template padrão de projeto PyCharm |
+| `tarefa1.py` | Médias separadas de números pares e ímpares |
+| `tarefa2.py` | Estatísticas completas: soma, média, maior, menor e contagem |
+| `tarefa3.py` | Sistema de votação com percentual de nulos e brancos |
 
-## 📝 Sobre os Projetos
-
-Cada projeto desta pasta foi desenvolvido como atividade do curso, seguindo boas práticas de:
-
-- **Versionamento** com Git
-- **Documentação** com Markdown
-- **Organização** de código e arquivos
-
----
-
-<sub>← [Voltar ao repositório principal](../README.md)</sub>
-
----
-
-## 🛠️ Tecnologias que estou aprendendo
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-
+**Linguagem:** Python 3  
+**Tópicos abordados:** variáveis · tipos de dados · operadores · `input()` · `while` · condicionais · acumuladores · listas
 
 ---
 
-## 📬 Contato
+## Stack e ferramentas
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-cardoso-1b82a32a5)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Peter-Hubdev)
-[![E-mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrocbarbosa27@gmail.com)
-
-</div>
+| Ferramenta | Uso |
+|---|---|
+| Git | Versionamento local e controle de histórico |
+| GitHub | Hospedagem remota e colaboração |
+| GitHub Pages | Deploy estático da página de portfólio |
+| Python 3 | Exercícios de lógica e programação |
+| HTML / CSS / JS | Desenvolvimento front-end |
+| Markdown | Documentação dos projetos |
 
 ---
 
-<div align="center">
-  <sub>Feito com 💜 por Pedro Cardoso Barbosa · ADS · 2026</sub>
-</div>
+## Fluxo de versionamento
+
+```bash
+git init
+git add .
+git commit -m "feat: descrição da alteração"
+git push origin main
+```
+
+Commits seguem o padrão [Conventional Commits](https://www.conventionalcommits.org/): `feat`, `fix`, `docs`, `chore`.
+
+---
+
+> Repositório criado em maio de 2026 · Desafio de Versionamento — Entrega Intermediária
