@@ -109,4 +109,4 @@ Commits seguem o padrão [Conventional Commits](https://www.conventionalcommits.
 
 ---
 
-> Repositório criado em maio de 2026 · Desafio de Versionamento — Entrega Intermediária
+> Repositório criado em maio de 2026
