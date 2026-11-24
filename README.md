@@ -53,7 +53,7 @@ Página estática que apresenta meus projetos e informações de contato, public
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Peter-Hubdev&layout=compact&langs_count=8&theme=dark&card_width=800)
 
 ---
-#### 💻 Programming & Tools
+#### 💻 Programação & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" alt="HTML" />
