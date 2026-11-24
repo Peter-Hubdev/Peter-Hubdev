@@ -49,6 +49,25 @@ Página estática que apresenta meus projetos e informações de contato, public
 
 ---
 
+### GitHub Stats
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Peter-Hubdev&layout=compact&langs_count=8&theme=dark&card_width=800)
+
+---
+#### 💻 Programming & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="50" height="50" alt="Markdown" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="50" height="50" alt="PyCharm" />
+  <img src="https://hopetutors.com/wp-content/uploads/2016/08/oracle-sql-developer-training-in-chennai.png" width="60" alt="SQL Developer" />
+  <img src="https://avatars.githubusercontent.com/u/66977729?s=200&v=4" width="50" height="50" alt="brModelo" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuZbf72-6H6gtaCCn4vRw3wjFjm5k8B7LXckGsvCKF2WBuuJwJEWrg4n9H&s=10" width="50" height="50" alt="UML" />
+</p>
+---
 ## Fluxo de versionamento
 
 ```bash
