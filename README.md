@@ -1,53 +1,37 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=70&text=pedro%40ceub%3A~%24%20_&fontColor=3fb950&fontSize=26&fontAlign=14&fontAlignY=50" alt="pedro@ceub:~$" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0000aa&height=70&text=BIOS%20SETUP%20UTILITY%20%C2%B7%20Pedro%20Cardoso%20Barbosa&fontColor=ffffff&fontSize=22&fontAlign=50&fontAlignY=50" alt="BIOS Setup Utility" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=3FB950&background=00000000&center=true&vCenter=true&width=700&height=40&lines=%24+whoami;%24+cat+about.md;%24+git+commit+-m+%22learning+every+day%22;%24+sudo+become-developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=900&color=FFFF55&background=0000AA&center=true&vCenter=true&width=700&height=40&lines=Press+DEL+to+enter+SETUP...;Checking+NVRAM...;Loading+Setup+Utility...;Pedro.exe+detected+-+OK" alt="Typing SVG" />
+</p>
+
+<p align="center">
+<a href="#about"><img src="https://img.shields.io/badge/Main-7a7a7a?style=flat-square&labelColor=7a7a7a" alt="Main" /></a> <a href="#education"><img src="https://img.shields.io/badge/Education-0000aa?style=flat-square&labelColor=0000aa" alt="Education" /></a> <a href="#current-courses"><img src="https://img.shields.io/badge/Courses-0000aa?style=flat-square&labelColor=0000aa" alt="Courses" /></a> <a href="#academic-projects"><img src="https://img.shields.io/badge/Projects-0000aa?style=flat-square&labelColor=0000aa" alt="Projects" /></a> <a href="#technical-skills"><img src="https://img.shields.io/badge/Skills-0000aa?style=flat-square&labelColor=0000aa" alt="Skills" /></a> <a href="#languages"><img src="https://img.shields.io/badge/Languages-0000aa?style=flat-square&labelColor=0000aa" alt="Languages" /></a> <a href="#contact"><img src="https://img.shields.io/badge/Exit-0000aa?style=flat-square&labelColor=0000aa" alt="Exit" /></a>
 </p>
 
 ```text
-● ● ●  pedro@ceub: ~ — zsh
-
-$ neofetch
-
-       ┌─────────┐         pedro@ceub
-       │  >_     │         ------------------
-       │         │         Name:     Pedro Cardoso Barbosa
-       └─────────┘         Course:   Systems Analysis and Development
-                           Host:     CEUB
-                           Focus:    Databases, Requirements, Interfaces
-                           Shell:    Python, SQL, JavaScript
-                           Goal:     Web Design & Games
+╔════════════════════════════════════════════════════════════════╗
+║ System Overview                                                ║
+╠════════════════════════════════════════════════════════════════╣
+║ Name ........ Pedro Cardoso Barbosa                            ║
+║ Course ...... Systems Analysis and Development (SAD)           ║
+║ Institution . CEUB                                             ║
+║ Focus ....... Databases, Requirements, Interfaces              ║
+║ Interest .... Data Security                                    ║
+║ Goal ........ Web Design & Games                               ║
+║                                                                ║
+║ BIOS Ver .... PCB-BIOS v1.0                                    ║
+║ Status ...... [ ALL SYSTEMS GO ]                               ║
+╚════════════════════════════════════════════════════════════════╝
 ```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/course-SAD-0d1117?style=flat-square&labelColor=161b22&color=3fb950" />
-  <img src="https://img.shields.io/badge/focus-databases-0d1117?style=flat-square&labelColor=161b22&color=3fb950" />
-  <img src="https://img.shields.io/badge/interest-data%20security-0d1117?style=flat-square&labelColor=161b22&color=3fb950" />
-  <img src="https://img.shields.io/badge/goal-web%20design%20%26%20games-0d1117?style=flat-square&labelColor=161b22&color=3fb950" />
-</p>
-
-```text
-$ ls
-```
-
-<p align="center">
-  <a href="#about"><code>about/</code></a>
-  <a href="#education"><code>education/</code></a>
-  <a href="#current-courses"><code>courses/</code></a>
-  <a href="#academic-projects"><code>projects/</code></a>
-  <a href="#technical-skills"><code>skills/</code></a>
-  <a href="#languages"><code>languages/</code></a>
-  <a href="#contact"><code>contact/</code></a>
-</p>
 
 ---
 
 ## About
 
 ```text
-pedro@ceub:~$ cat about.md
+╔═ Main  >  Item Specific Help ══════════════════════════════════╗
 ```
 
 Systems Analysis and Development (SAD) student focused on **databases**, **requirements engineering**, and **interface development**. I enjoy combining the technical side (modeling, SQL, programming) with the user experience side (research, prototyping, accessibility).
@@ -59,11 +43,14 @@ Systems Analysis and Development (SAD) student focused on **databases**, **requi
 ## Education
 
 ```text
-pedro@ceub:~$ cat education.log
-
-program ....... Systems Analysis and Development (SAD)
-institution ... CEUB
-status ........ [ IN PROGRESS ]
+╔════════════════════════════════════════════════════════════════╗
+║ Education  >  Installed Program                                ║
+╠════════════════════════════════════════════════════════════════╣
+║ Program ...... Systems Analysis and Development                ║
+║ Short name ... SAD                                             ║
+║ Institution .. CEUB                                            ║
+║ Status ....... [ IN PROGRESS ]                                 ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -71,26 +58,32 @@ status ........ [ IN PROGRESS ]
 ## Current Courses
 
 ```text
-pedro@ceub:~$ tree courses/
-
-courses/
-├── databases-2/
-│   └── SQL in Oracle (DDL and DML), joins, views, procedures, functions,
-│       audit triggers, exception handling, data dictionary and metadata
-├── interface-development/
-│   └── JavaScript, DOM manipulation, events, data input, conditionals,
-│       hands-on labs with GitHub version control
-├── computer-networks/
-│   └── Networking fundamentals, mobile networks and 5G in Brazil
-│       (frequencies, spectrum auction, OFDMA and MIMO)
-├── requirements-engineering/
-│   └── 5W2H, BPMN process modeling (AS-IS and TO-BE),
-│       use case specification, empathy map
-└── object-oriented-programming/
-    └── Python with inheritance, abstract classes (ABC),
-        class attributes and methods, module organization
-
-5 directories
+╔════════════════════════════════════════════════════════════════╗
+║ Advanced  >  Loaded Modules                                    ║
+╠════════════════════════════════════════════════════════════════╣
+║ [+] Databases 2                                                ║
+║       SQL in Oracle (DDL and DML), joins, views, procedures,   ║
+║       functions, audit triggers, exception handling, data      ║
+║       dictionary and metadata                                  ║
+║                                                                ║
+║ [+] Interface Development                                      ║
+║       JavaScript, DOM manipulation, events, data input,        ║
+║       conditionals, and hands-on labs with GitHub version      ║
+║       control                                                  ║
+║                                                                ║
+║ [+] Computer Networks                                          ║
+║       Networking fundamentals, including mobile networks and   ║
+║       5G in Brazil (frequencies, spectrum auction, OFDMA and   ║
+║       MIMO)                                                    ║
+║                                                                ║
+║ [+] Requirements Engineering                                   ║
+║       5W2H, process modeling in BPMN (AS-IS and TO-BE), use    ║
+║       case specification, empathy map                          ║
+║                                                                ║
+║ [+] Object-Oriented Programming                                ║
+║       Python with inheritance, abstract classes (ABC), class   ║
+║       attributes and methods, module organization              ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -98,21 +91,20 @@ courses/
 ## Academic Projects
 
 ```text
-pedro@ceub:~$ tree projects/
-
-projects/
-├── clinic-management-requirements/
-├── govbr-ux-ui-analysis/
-├── orders-database-oracle/
-├── oop-python/
-├── web-html-css/
-└── library-system-usability/
-
-6 directories
+╔════════════════════════════════════════════════════════════════╗
+║ Boot  >  Boot Device Priority                                  ║
+╠════════════════════════════════════════════════════════════════╣
+║ 1st Device ... [Clinic Management Requirements]                ║
+║ 2nd Device ... [gov.br UX/UI Analysis]                         ║
+║ 3rd Device ... [Orders Database in Oracle]                     ║
+║ 4th Device ... [OOP in Python]                                 ║
+║ 5th Device ... [Web Development: HTML and CSS]                 ║
+║ 6th Device ... [Library System Usability]                      ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
 ```text
-pedro@ceub:~$ cat projects/clinic-management-requirements/README.md
+╔═ Boot  >  Device 1 ════════════════════════════════════════════╗
 ```
 
 ### Needs Assessment and Requirements Engineering for Clinic Management
@@ -122,7 +114,7 @@ Group project (Systems Analysis and Design course) for a multidisciplinary medic
 - **Tools:** Bizagi Modeler, Astah/Draw.io, Figma
 
 ```text
-pedro@ceub:~$ cat projects/govbr-ux-ui-analysis/README.md
+╔═ Boot  >  Device 2 ════════════════════════════════════════════╗
 ```
 
 ### UX/UI Analysis of the gov.br Portal (Design Thinking)
@@ -133,7 +125,7 @@ Group project that walks through the full Design Thinking cycle on the gov.br po
 - **Usability test** plan with defined tasks and Markdown documentation on GitHub
 
 ```text
-pedro@ceub:~$ cat projects/orders-database-oracle/README.md
+╔═ Boot  >  Device 3 ════════════════════════════════════════════╗
 ```
 
 ### Orders Database in Oracle (BD Pedido)
@@ -144,7 +136,7 @@ Series of activities on a physical model with customers, orders, products, sales
 - **Procedure and function** for email validation with exception handling
 
 ```text
-pedro@ceub:~$ cat projects/oop-python/README.md
+╔═ Boot  >  Device 4 ════════════════════════════════════════════╗
 ```
 
 ### Object-Oriented Programming in Python
@@ -154,7 +146,7 @@ Practical exams modeling class hierarchies.
 - Separation between the class module and the main program
 
 ```text
-pedro@ceub:~$ cat projects/web-html-css/README.md
+╔═ Boot  >  Device 5 ════════════════════════════════════════════╗
 ```
 
 ### Web Development with HTML and CSS
@@ -163,7 +155,7 @@ Websites built in the Web Systems Development course.
 - CSS with selectors, box model, **Flexbox**, **Grid**, positioning, and responsiveness
 
 ```text
-pedro@ceub:~$ cat projects/library-system-usability/README.md
+╔═ Boot  >  Device 6 ════════════════════════════════════════════╗
 ```
 
 ### Requirements and Usability of a Library System
@@ -175,35 +167,25 @@ pedro@ceub:~$ cat projects/library-system-usability/README.md
 ## Technical Skills
 
 ```text
-pedro@ceub:~$ ./skills --list
-
-languages ........ Python, Java, JavaScript, SQL, HTML, CSS
-databases ........ Oracle (SQL Developer), PostgreSQL, brModelo
-modeling ......... UML, BPMN, use cases, 5W2H, empathy map
-ux/ui ............ Design Thinking, personas, journeys, prototyping, accessibility
-tools ............ Git/GitHub, VS Code, PyCharm, Markdown
+╔════════════════════════════════════════════════════════════════╗
+║ Advanced  >  Configuration                                     ║
+╠════════════════════════════════════════════════════════════════╣
+║ Languages ...... Python, Java, JavaScript, SQL, HTML, CSS      ║
+║ Databases ...... Oracle (SQL Developer), PostgreSQL, brModelo  ║
+║ Modeling ....... UML, BPMN, use cases, 5W2H, empathy map       ║
+║ UX/UI .......... Design Thinking, personas, journeys,          ║
+║                  prototyping, accessibility                    ║
+║ Tools .......... Git/GitHub, VS Code, PyCharm, Markdown        ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=3fb950" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=3fb950" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=3fb950" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3fb950" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=3fb950" alt="Java" />
-  <img src="https://img.shields.io/badge/Markdown-0d1117?style=flat-square&logo=markdown&logoColor=3fb950" alt="Markdown" />
-  <img src="https://img.shields.io/badge/PyCharm-0d1117?style=flat-square&logo=pycharm&logoColor=3fb950" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=3fb950" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Oracle%20SQL%20Developer-0d1117?style=flat-square&logo=oracle&logoColor=3fb950" alt="SQL Developer" />
-  <img src="https://img.shields.io/badge/brModelo-0d1117?style=flat-square&labelColor=0d1117&color=3fb950" alt="brModelo" />
-  <img src="https://img.shields.io/badge/UML-0d1117?style=flat-square&labelColor=0d1117&color=3fb950" alt="UML" />
+<img src="https://img.shields.io/badge/HTML5-0000aa?style=flat-square&logo=html5&logoColor=ffff55&labelColor=0000aa" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-0000aa?style=flat-square&logo=css3&logoColor=ffff55&labelColor=0000aa" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-0000aa?style=flat-square&logo=javascript&logoColor=ffff55&labelColor=0000aa" alt="JavaScript" /> <img src="https://img.shields.io/badge/Python-0000aa?style=flat-square&logo=python&logoColor=ffff55&labelColor=0000aa" alt="Python" /> <img src="https://img.shields.io/badge/Java-0000aa?style=flat-square&logo=openjdk&logoColor=ffff55&labelColor=0000aa" alt="Java" /> <img src="https://img.shields.io/badge/Markdown-0000aa?style=flat-square&logo=markdown&logoColor=ffff55&labelColor=0000aa" alt="Markdown" /> <img src="https://img.shields.io/badge/PyCharm-0000aa?style=flat-square&logo=pycharm&logoColor=ffff55&labelColor=0000aa" alt="PyCharm" /> <img src="https://img.shields.io/badge/PostgreSQL-0000aa?style=flat-square&logo=postgresql&logoColor=ffff55&labelColor=0000aa" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Oracle%20SQL%20Developer-0000aa?style=flat-square&logo=oracle&logoColor=ffff55&labelColor=0000aa" alt="Oracle%20SQL%20Developer" /> <img src="https://img.shields.io/badge/brModelo-0000aa?style=flat-square&labelColor=0000aa" alt="brModelo" /> <img src="https://img.shields.io/badge/UML-0000aa?style=flat-square&labelColor=0000aa" alt="UML" />
 </p>
 
-```text
-pedro@ceub:~$ github-stats --user Peter-Hubdev --top-langs
-```
-
+### GitHub Stats
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Peter-Hubdev&layout=compact&langs_count=8&theme=dark&card_width=600&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&border_color=30363d" alt="Most used languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Peter-Hubdev&layout=compact&langs_count=8&theme=dark&card_width=600&bg_color=0000aa&title_color=ffff55&text_color=ffffff&border_color=aaaaaa" alt="Most used languages" />
 </p>
 
 ---
@@ -211,12 +193,14 @@ pedro@ceub:~$ github-stats --user Peter-Hubdev --top-langs
 ## Languages
 
 ```text
-pedro@ceub:~$ htop --languages
-
-  Portuguese  [||||||||||||||||||||]  native
-  English     [||||||||||||........]  intermediate
-  Spanish     [||||||..............]  basic
-  French      [||||||..............]  basic
+╔════════════════════════════════════════════════════════════════╗
+║ Main  >  Language Options                                      ║
+╠════════════════════════════════════════════════════════════════╣
+║ Portuguese ..... [Native]                                      ║
+║ English ........ [Intermediate]                                ║
+║ Spanish ........ [Basic]                                       ║
+║ French ......... [Basic]                                       ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -224,30 +208,33 @@ pedro@ceub:~$ htop --languages
 ## Contact
 
 ```text
-pedro@ceub:~$ cat contact.json
-
-{
-  "linkedin":  "linkedin.com/in/pedro-cardoso-1b82a32a5",
-  "email":     "pedrocbarbosa27@gmail.com",
-  "github":    "github.com/Peter-Hubdev",
-  "instagram": "instagram.com/pcb_11io"
-}
+╔════════════════════════════════════════════════════════════════╗
+║ Exit  >  Save & Exit Setup                                     ║
+╠════════════════════════════════════════════════════════════════╣
+║ LinkedIn ... linkedin.com/in/pedro-cardoso-1b82a32a5           ║
+║ E-mail ..... pedrocbarbosa27@gmail.com                         ║
+║ GitHub ..... github.com/Peter-Hubdev                           ║
+║ Instagram .. instagram.com/pcb_11io                            ║
+║                                                                ║
+║ Save configuration changes and exit now?                       ║
+║                                                                ║
+║             [  Ok  ]          [ Cancel ]                       ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pedro-cardoso-1b82a32a5/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=3fb950" alt="LinkedIn" /></a>
-  <a href="mailto:pedrocbarbosa27@gmail.com"><img src="https://img.shields.io/badge/E--mail-0d1117?style=flat-square&logo=gmail&logoColor=3fb950" alt="E-mail" /></a>
-  <a href="https://github.com/Peter-Hubdev"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=3fb950" alt="GitHub" /></a>
-  <a href="https://www.instagram.com/pcb_11io/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=3fb950" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/pedro-cardoso-1b82a32a5/"><img src="https://img.shields.io/badge/LinkedIn-0000aa?style=flat-square&logo=linkedin&logoColor=ffff55&labelColor=0000aa" alt="LinkedIn" /></a> <a href="mailto:pedrocbarbosa27@gmail.com"><img src="https://img.shields.io/badge/E--mail-0000aa?style=flat-square&logo=gmail&logoColor=ffff55&labelColor=0000aa" alt="E--mail" /></a> <a href="https://github.com/Peter-Hubdev"><img src="https://img.shields.io/badge/GitHub-0000aa?style=flat-square&logo=github&logoColor=ffff55&labelColor=0000aa" alt="GitHub" /></a> <a href="https://www.instagram.com/pcb_11io/"><img src="https://img.shields.io/badge/Instagram-0000aa?style=flat-square&logo=instagram&logoColor=ffff55&labelColor=0000aa" alt="Instagram" /></a>
 </p>
 
 ```text
-pedro@ceub:~$ exit
-logout
-
-[Process completed]
+╔════════════════════════════════════════════════════════════════╗
+║ Key Legend                                                     ║
+╠════════════════════════════════════════════════════════════════╣
+║ Up/Down: Select Item     Enter: Select     F1: General Help    ║
+║ F10: Save and Exit       Esc: Exit                             ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=3FB950&background=00000000&center=true&vCenter=true&width=360&height=35&lines=pedro%40ceub%3A~%24+%E2%96%88" alt="prompt" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0000aa&height=50&text=F10%20Save%20and%20Exit%20%C2%B7%20ESC%20Exit&fontColor=ffff55&fontSize=16&fontAlign=50&fontAlignY=50" alt="F10 Save and Exit" />
 </p>
