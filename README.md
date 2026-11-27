@@ -123,7 +123,7 @@ Sites desenvolvidos na disciplina de Desenvolvimento de Sistemas Web.
 ## Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=60a5fa" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/pedro-cardoso-1b82a32a5/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=60a5fa" alt="LinkedIn" /></a>
   <a href="mailto:pedrocbarbosa27@gmail.com"><img src="https://img.shields.io/badge/E--mail-0f172a?style=for-the-badge&logo=gmail&logoColor=60a5fa" alt="E-mail" /></a>
   <a href="https://github.com/Peter-Hubdev"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=60a5fa" alt="GitHub" /></a>
   <a href="/https://www.instagram.com/pcb_11io/"><img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=60a5fa" alt="Instagram" /></a>
