@@ -1,68 +1,134 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:8b0000&height=200&section=header&text=PEDRO%20CARDOSO&fontColor=ff3b30&fontSize=52&fontAlign=50&fontAlignY=40&desc=USG%20ISHIMURA%20//%20DEV%20LOG&descColor=00e5ff&descAlignY=62&descSize=16" alt="Pedro Cardoso Barbosa" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e40af&height=200&section=header&text=Pedro%20Cardoso%20Barbosa&fontColor=ffffff&fontSize=44&fontAlign=50&fontAlignY=38&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas%20%C2%B7%20CEUB&descColor=cbd5e1&descAlignY=60&descSize=16" alt="Pedro Cardoso Barbosa" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1200&color=00E5FF&center=true&vCenter=true&width=620&lines=%3E+sistema+iniciado...;%3E+operador%3A+Pedro+Cardoso+Barbosa;%3E+status%3A+estudante+de+ADS;%3E+objetivo%3A+web+design+%26+games" alt="status" />
+  <img src="https://img.shields.io/badge/Curso-ADS-1e40af?style=flat-square" />
+  <img src="https://img.shields.io/badge/Foco-Banco%20de%20Dados-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Interesse-Seguran%C3%A7a%20de%20Dados-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Objetivo-Web%20Design%20%26%20Games-0f172a?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CURSO-ADS-0b0f12?style=for-the-badge&labelColor=8b0000" />
-  <img src="https://img.shields.io/badge/FOCO-BANCO%20DE%20DADOS-0b0f12?style=for-the-badge&labelColor=8b0000" />
-  <img src="https://img.shields.io/badge/OBJETIVO-WEB%20DESIGN%20%26%20GAMES-0b0f12?style=for-the-badge&labelColor=8b0000" />
+  <a href="#sobre">Sobre</a> ·
+  <a href="#formação-acadêmica">Formação</a> ·
+  <a href="#disciplinas-em-curso">Disciplinas</a> ·
+  <a href="#projetos-acadêmicos">Projetos</a> ·
+  <a href="#competências-técnicas">Competências</a> ·
+  <a href="#idiomas">Idiomas</a> ·
+  <a href="#contato">Contato</a>
 </p>
 
 ---
 
-### REGISTRO PESSOAL
+## Sobre
 
-```text
-NOME ........ Pedro Cardoso
-FUNCAO ...... Estudante de Analise e Desenvolvimento de Sistemas
-ROTA ATUAL .. Seguranca com banco de dados / vibe-coding
-OBJETIVO .... Web design e programacao de games
-HOBBIES ..... Desenho, pintura, mangas, HQs, livros, jogos, musica
-```
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco em **banco de dados**, **engenharia de requisitos** e **desenvolvimento de interfaces**. Gosto de unir a parte técnica (modelagem, SQL, programação) com a parte de experiência do usuário (pesquisa, prototipagem, acessibilidade).
+
+**Direção profissional:** segurança envolvendo banco de dados, desenvolvimento assistido por IA (vibe-coding) e, a longo prazo, web design e programação de games.
 
 ---
 
-### MISSAO ATUAL
+## Formação acadêmica
 
-```text
-[ATIVO] Banco de Dados 2
-[ATIVO] Desenvolvimento em Interfaces
-[ATIVO] Redes de Computadores
-[ATIVO] Engenharia de Requisitos
-[ATIVO] Programacao Orientada a Objetos
-```
+| Curso | Instituição | Status |
+|---|---|---|
+| Análise e Desenvolvimento de Sistemas (ADS) | CEUB | Em andamento |
 
 ---
 
-### COMUNICACOES
+## Disciplinas em curso
 
-```text
-PORTUGUES ... [██████████] fluente
-INGLES ...... [██████░░░░] intermediario
-ESPANHOL .... [███░░░░░░░] basico
-FRANCES ..... [███░░░░░░░] basico
-```
-
----
-
-### DIAGNOSTICO DO SISTEMA
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Peter-Hubdev&layout=compact&langs_count=8&theme=dark&card_width=800&bg_color=0a0a0a&title_color=ff3b30&text_color=9fe8ff&border_color=8b0000)
+| Disciplina | O que estou aprendendo e aplicando |
+|---|---|
+| **Banco de Dados 2** | SQL em Oracle (DDL e DML), joins, views, procedures, functions, triggers de auditoria, tratamento de exceções, dicionário de dados e metadados |
+| **Desenvolvimento em Interfaces** | JavaScript, manipulação do DOM, eventos, entrada de dados, condicionais e laboratórios práticos com versionamento no GitHub |
+| **Redes de Computadores** | Fundamentos de redes, incluindo redes móveis e a tecnologia 5G no Brasil (frequências, leilão, OFDMA e MIMO) |
+| **Engenharia de Requisitos** | 5W2H, modelagem de processos em BPMN (AS-IS e TO-BE), especificação de casos de uso, mapa de empatia |
+| **Programação Orientada a Objetos** | Python com herança, classes abstratas (ABC), atributos e métodos de classe, organização em módulos |
 
 ---
 
-### ARSENAL
+## Projetos acadêmicos
+
+### Diagnóstico de Necessidades e Engenharia de Requisitos para Gestão Clínica
+Projeto em grupo (disciplina de Análise e Projeto de Sistemas) para uma clínica médica multidisciplinar, cobrindo recepção, consultório e faturamento.
+- Planejamento com **5W2H**
+- Modelagem **BPMN** do fluxo atual (AS-IS) e do fluxo proposto automatizado (TO-BE)
+- **Ferramentas:** Bizagi Modeler, Astah/Draw.io, Figma
+
+### Análise de UX/UI do portal gov.br (Design Thinking)
+Projeto em grupo que percorre o ciclo completo de Design Thinking sobre o portal gov.br.
+- Pesquisa, definição do problema, **personas** e **jornadas do usuário**
+- Ideação e seleção da solução "Login Alternativo Simplificado"
+- **Protótipo em duas versões**, com evolução da barra de acessibilidade (A-/A+, alto contraste e VLibras)
+- Plano de **teste de usabilidade** com tarefas definidas e documentação em Markdown no GitHub
+
+### Banco de dados de pedidos em Oracle (BD Pedido)
+Série de atividades sobre um modelo físico com clientes, pedidos, produtos, vendedores e estoque, desenvolvidas no SQL Developer.
+- Consultas com **joins** e operações de INSERT e UPDATE
+- **View de estoque** que trata dados inconsistentes e valores nulos
+- **Trigger de auditoria** que registra inserções, alterações e deleções em tabela de log (com sequence)
+- **Procedure e function** para validação de e-mail com tratamento de exceções
+
+### Programação Orientada a Objetos em Python
+Provas práticas com modelagem de hierarquias de classes.
+- Herança e **classes abstratas** com o módulo `abc`
+- Atributos e métodos de classe, como contagem de objetos instanciados
+- Separação entre módulo de classes e programa principal
+
+### Desenvolvimento web com HTML e CSS
+Sites desenvolvidos na disciplina de Desenvolvimento de Sistemas Web.
+- HTML semântico com listas, tabelas, formulários e imagens
+- CSS com seletores, box model, **Flexbox**, **Grid**, posicionamento e responsividade
+
+### Requisitos e usabilidade de um sistema de biblioteca
+- **Mapa de empatia** do ator "Aluno" (reserva de livros, salas de estudo em grupo e renovação)
+- **Especificação de caso de uso** a partir de formulário padronizado
+
+---
+
+## Competências técnicas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" alt="HTML" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="50" height="50" alt="Markdown" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="50" height="50" alt="PyCharm" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" /> <img src="https://hopetutors.com/wp-content/uploads/2016/08/oracle-sql-developer-training-in-chennai.png" width="60" alt="SQL Developer" /> <img src="https://avatars.githubusercontent.com/u/66977729?s=200&v=4" width="50" height="50" alt="brModelo" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuZbf72-6H6gtaCCn4vRw3wjFjm5k8B7LXckGsvCKF2WBuuJwJEWrg4n9H&s=10" width="50" height="50" alt="UML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="46" height="46" alt="HTML" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="46" height="46" alt="CSS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="46" height="46" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="46" height="46" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="46" height="46" alt="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="46" height="46" alt="Markdown" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="46" height="46" alt="PyCharm" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="46" height="46" alt="PostgreSQL" /> <img src="https://hopetutors.com/wp-content/uploads/2016/08/oracle-sql-developer-training-in-chennai.png" width="56" alt="SQL Developer" /> <img src="https://avatars.githubusercontent.com/u/66977729?s=200&v=4" width="46" height="46" alt="brModelo" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuZbf72-6H6gtaCCn4vRw3wjFjm5k8B7LXckGsvCKF2WBuuJwJEWrg4n9H&s=10" width="46" height="46" alt="UML" />
+</p>
+
+| Área | Tecnologias e práticas |
+|---|---|
+| **Linguagens** | Python, Java, JavaScript, SQL, HTML, CSS |
+| **Banco de dados** | Oracle (SQL Developer), PostgreSQL, modelagem com brModelo |
+| **Modelagem e requisitos** | UML, BPMN, casos de uso, 5W2H, mapa de empatia |
+| **UX/UI** | Design Thinking, personas, jornadas, prototipagem, acessibilidade |
+| **Ferramentas** | Git/GitHub, VS Code, PyCharm, Markdown |
+
+### Estatísticas do GitHub
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Peter-Hubdev&layout=compact&langs_count=8&theme=dark&card_width=600&bg_color=0f172a&title_color=60a5fa&text_color=cbd5e1&border_color=1e40af" alt="Linguagens mais usadas" />
 </p>
 
 ---
 
-### CANAL DE COMUNICACAO
+## Idiomas
+
+| Idioma | Nível |
+|---|---|
+| Português | Nativo |
+| Inglês | Intermediário |
+| Espanhol | Básico |
+| Francês | Básico |
+
+---
+
+## Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" style="display:inline-block; text-decoration:none;"><img src="https://img.shields.io/badge/LINKEDIN-0b0f12?style=for-the-badge&logo=linkedin&logoColor=00e5ff&labelColor=0b0f12&color=0b0f12" alt="LinkedIn" /></a> <a href="mailto:SEU_EMAIL@exemplo.com" style="display:inline-block; text-decoration:none;"><img src="https://img.shields.io/badge/EMAIL-0b0f12?style=for-the-badge&logo=gmail&logoColor=ff3b30&labelColor=0b0f12&color=0b0f12" alt="Email" /></a> <a href="https://github.com/Peter-Hubdev" style="display:inline-block; text-decoration:none;"><img src="https://img.shields.io/badge/GITHUB-0b0f12?style=for-the-badge&logo=github&logoColor=00e5ff&labelColor=0b0f12&color=0b0f12" alt="GitHub" /></a> <a href="https://www.instagram.com/SEU_INSTAGRAM" style="display:inline-block; text-decoration:none;"><img src="https://img.shields.io/badge/INSTAGRAM-0b0f12?style=for-the-badge&logo=instagram&logoColor=ff3b30&labelColor=0b0f12&color=0b0f12" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=60a5fa" alt="LinkedIn" /></a>
+  <a href="mailto:SEU_EMAIL@exemplo.com"><img src="https://img.shields.io/badge/E--mail-0f172a?style=for-the-badge&logo=gmail&logoColor=60a5fa" alt="E-mail" /></a>
+  <a href="https://github.com/Peter-Hubdev"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=60a5fa" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/SEU_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=60a5fa" alt="Instagram" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,100:0f172a&height=90&section=footer" alt="footer" />
+</p>
