@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:8b0000&height=200&section=header&text=PEDRO%20CARDOSO&fontColor=ff3b30&fontSize=52&fontAlign=50&fontAlignY=40&desc=USG%20ISHIMURA%20//%20DEV%20LOG&descColor=00e5ff&descAlignY=62&descSize=16" alt="Pedro Cardoso" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:8b0000&height=200&section=header&text=PEDRO%20CARDOSO&fontColor=ff3b30&fontSize=52&fontAlign=50&fontAlignY=40&desc=USG%20ISHIMURA%20//%20DEV%20LOG&descColor=00e5ff&descAlignY=62&descSize=16" alt="Pedro Cardoso Barbosa" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1200&color=00E5FF&center=true&vCenter=true&width=620&lines=%3E+sistema+iniciado...;%3E+operador%3A+Pedro+Cardoso;%3E+status%3A+estudante+de+ADS;%3E+objetivo%3A+web+design+%26+games" alt="status" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1200&color=00E5FF&center=true&vCenter=true&width=620&lines=%3E+sistema+iniciado...;%3E+operador%3A+Pedro+Cardoso+Barbosa;%3E+status%3A+estudante+de+ADS;%3E+objetivo%3A+web+design+%26+games" alt="status" />
 </p>
 
 <p align="center">
